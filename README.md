@@ -5,5 +5,6 @@
 5. deploy
 6. call or transact
 
-you can see how to do this from below👇
+you can see how to do this on youtube
+
 https://youtu.be/HVVFLLpC42Y
